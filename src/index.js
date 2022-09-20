@@ -26,6 +26,7 @@ const initialState = {
       "completed": false
     }
   ],
+  
   loading: false
 };
 
